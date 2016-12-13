@@ -1,6 +1,13 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default
+title: Hekyll Presentation Generator
 ---
+
+# Hekyll #
+_pronunciation: "heckle"_
+
+Hekyll is a presentation generator that uses Jekyll and Impress.js to create awesome presentations. You write Markdown files, which get turned into individual slides for an Impress.js presentation. How cool is that?
+
+[Check it out in action!](preso.html)
+
+[Fork me on GitHub](https://github.com/bmcmurray/hekyll)
