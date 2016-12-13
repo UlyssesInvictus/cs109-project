@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Hekyll Presentation Generator
+title: Baby Names and Immigration
 ---
 
-# Hekyll #
-_pronunciation: "heckle"_
+# Baby Names and Immigration #
+A CS 109a project by _Julia Argy, Raynor Kuang, Ezinne Nkwanko, Judson Woods_
 
-Hekyll is a presentation generator that uses Jekyll and Impress.js to create awesome presentations. You write Markdown files, which get turned into individual slides for an Impress.js presentation. How cool is that?
+Stuff goes here
 
-[Check it out in action!](preso.html)
-
-[Fork me on GitHub](https://github.com/bmcmurray/hekyll)
+[Let's get started!](preso.html)
