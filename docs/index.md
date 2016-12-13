@@ -4,7 +4,7 @@ title: Baby Names and Immigration
 ---
 
 # Baby Names and Immigration #
-A CS 109a project by _Julia Argy, Raynor Kuang, Ezinne Nkwanko, Judson Woods_
+A CS 109a project by _Julia Argy, Raynor Kuang, Ezinne Nwankwo, Judson Woods_
 
 Stuff goes here
 
