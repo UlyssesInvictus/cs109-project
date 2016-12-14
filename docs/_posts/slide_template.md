@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ""
-published: false
+published: true
 classes:
  - slide
 data:

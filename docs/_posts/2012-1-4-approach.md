@@ -1,10 +1,10 @@
 ---
 layout: default
 title: "Approach"
-published: false
+published: true
 data:
-  x: 1
-  y: 0
+  x: 1000
+  y: 1000
 
 ---
 
@@ -17,5 +17,3 @@ data:
 3. To reduce the dimensions of these matrices, we used principal components analysis (PCA).
   * The top two PCA components were used to visualize the similarity of names between states over time on a per decade basis.
   * We also identified the most representative immigrant names for each state by normalizing the name frequencies across states.
-
-
