@@ -9,6 +9,7 @@ A CS 109a project by:
 
 _Julia Argy, Raynor Kuang, Ezinne Nwankwo, Judson Woods_
 
-[stuff goes here]
+Use your ← and → keyboard arrows to navigate, and your mouse to scroll on slides.
 
-[Let's get started!](preso.html)
+
+[Click me to get started!](preso.html)
