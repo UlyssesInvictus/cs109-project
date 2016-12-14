@@ -1,0 +1,15 @@
+---
+layout: default
+title: "PCA for Asia"
+published: false
+classes:
+ - slide
+data:
+  x: 0
+  y: 0
+
+---
+
+Asian quickly becomes clustered from 1970 to 1980. Between 1970 and 1980, there was a large wave of Asian immigrants from 824,887 to 2,539,777.  Though it is unclear where exactly in Asia these immigrants came from, the principal components seem to have Russian origins (Nikolai, for example) which is an interesting name choice for the time, considering the Cold War was occurring at this time as well. 
+
+Insert PCA for Asia Here
