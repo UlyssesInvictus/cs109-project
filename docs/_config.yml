@@ -1,5 +1,6 @@
 highlighter: rouge
 permalink: "/:title"
+url: "https://ulyssesinvictus.github.io/cs109-project/"
 
 ## Hekyll Configuration ##
 simple-slideshow: false  # true/false -- when enabled, slide positioning is ignored and a simple cross-fade will be used to transition between slides.
