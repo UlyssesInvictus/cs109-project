@@ -104,7 +104,8 @@ a:hover {
   background: #e7e8e1; }
 
 h1 {
-  color: #6c577a;
+  /*color: #6c577a;*/
+  color: crimson;
   font-weight: bold;
   font-size: 2em; }
 
@@ -163,7 +164,8 @@ h1 {
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
   border: 1px solid rgba(0, 0, 0, 0.3);
   font-family: 'Open Sans', Arial, sans-serif;
-  color: #787a64;
+  /*color: #787a64;*/
+  color: black;
   text-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
   font-size: 22px;
   line-height: 36px;
