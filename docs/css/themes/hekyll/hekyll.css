@@ -111,10 +111,12 @@ a:hover {
   background: #e7e8e1; }
 
 h1 {
-  /*color: #6c577a;*/
-  color: crimson;
+  color: pink;
   font-weight: bold;
-  font-size: 2em; }
+  font-size: 2em;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
 
 /* COMMON STEP STYLES */
 .step {
@@ -191,7 +193,9 @@ h1 {
   margin: 1.25em 0;
 }
 .slide h1 {
-  line-height: 100%; }
+  line-height: 100%;
+  color: skyblue;
+}
 .slide ul, .slide p, .slide h2, .slide h3, .slide h4, .slide h5, .slide h6 {
   margin-top: 1em; }
 .slide li {
