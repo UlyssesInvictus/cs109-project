@@ -9,6 +9,6 @@ data:
   y: 0
 
 ---
-The Americas begin more clustered than any of the other immigrant regions in 1910. The clustering becomes even denser as time goes on. At least one of two principal components for the American names are boys name, which is also different than the other regions where the variability predominantly comes from women’s names.  
+The Americas region begins more clustered than any of the other immigrant regions in 1910. The clustering becomes even denser as time goes on. At least one of two principal components for the American names are boy name, which is also different than the other regions where the variability predominantly comes from women’s names.  
 
 Insert PCA for Americas Here
