@@ -163,9 +163,11 @@ h1 {
   font-family: 'Open Sans', Arial, sans-serif;
   color: #787a64;
   text-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
-  font-size: 30px;
+  font-size: 22px;
   line-height: 36px;
-  letter-spacing: -1px; }
+  letter-spacing: -1px;
+  overflow: auto;
+}
 
 .slide q {
   display: block;
@@ -175,13 +177,27 @@ h1 {
 .slide q strong {
   white-space: nowrap; }
 .slide p {
-  margin: 1.25em 0; }
+  margin: 1.25em 0;
+}
 .slide h1 {
   line-height: 100%; }
 .slide ul, .slide p, .slide h2, .slide h3, .slide h4, .slide h5, .slide h6 {
   margin-top: 1em; }
 .slide li {
   margin: 0 0 0.5em; }
+
+/*Fix scrollbar square corners*/
+.slide::-webkit-scrollbar {
+    width: 12px;
+}
+.slide::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+}
+.slide::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}
 
 /* IMPRESS NOT SUPPORTED STYLES */
 .fallback-message {

@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: default
 title: "Approach"
 published: false
 data:

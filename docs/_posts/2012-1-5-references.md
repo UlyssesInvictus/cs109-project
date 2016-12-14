@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: default
 title: "References"
 published: false
 data:

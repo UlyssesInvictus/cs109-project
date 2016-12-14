@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: default
 title: "Introduction"
 published: true
 data:
