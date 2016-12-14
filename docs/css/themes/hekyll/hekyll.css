@@ -80,7 +80,7 @@ body {
   font-family: "Myriad Pro", Myriad, Arial, "Helvetica", Helvetica, Geneva, sans-serif;
   min-height: 740px;
   /*background: pink;*/
-  background-image: url("{{ site.url }}/assets/clouds.jpg");
+  background-image: url("ulyssesinvictus.github.io/cs109-project/assets/clouds.jpg");
   -webkit-font-smoothing: antialiased;
   /*color: #787a64;*/
   color: black;
