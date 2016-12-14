@@ -1,3 +1,7 @@
+---
+title: CSS stylesheet
+---
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -75,8 +79,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 body {
   font-family: "Myriad Pro", Myriad, Arial, "Helvetica", Helvetica, Geneva, sans-serif;
   min-height: 740px;
-  /*background: #c5c7b6;*/
-  background: pink;
+  /*background: pink;*/
+  background-image: url("{{ site.url }}/assets/clouds.jpg");
   -webkit-font-smoothing: antialiased;
   /*color: #787a64;*/
   color: black;
@@ -163,7 +167,7 @@ h1 {
   height: 700px;
   padding: 40px 60px;
   border-radius: 10px;
-  background-color: skyblue;
+  background-color: pink;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
   border: 1px solid rgba(0, 0, 0, 0.3);
   font-family: 'Open Sans', Arial, sans-serif;
